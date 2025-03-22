@@ -1,1 +1,3 @@
-# recipie_app_frontend
+# React + Vite
+
+I have not added node modules in this project
